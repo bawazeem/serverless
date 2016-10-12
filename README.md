@@ -23,6 +23,7 @@ Serverless is an MIT open-source project, actively maintained by a full-time, ve
 * [Quick Start](#quick-start)
 * [Services](#services)
 * [Features](#features)
+* [Why Serverless?](#why-serverless)
 * [Plugins](#v1-plugins)
 * [Example Projects](#v1-projects)
 * [Contributing](#contributing)
@@ -96,6 +97,10 @@ The following are services you can instantly install and use by running `serverl
 * 100% Extensible: Extend or modify the Framework and its operations via Plugins.
 * An ecosystem of serverless services and plugins.
 * A passionate and welcoming community!
+
+## <a name="why-serverless"></a>Why Serverless?
+
+We want to make sure that you and your team don't have to manage or think about Servers in your day to day development. Through AWS Lambda and similar Function as a Service providers you can focus on building your business code without having to worry about operations. While there are of course still servers running, you don't have to think about them. This turns you into a Serverless Team and thats why we think Serverless is a fitting name.
 
 ## <a name="v1-plugins"></a>Plugins (V1.0)
 
